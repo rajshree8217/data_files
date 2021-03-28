@@ -1,0 +1,7 @@
+﻿CustomerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+9999-AAAA,Male,1,No,No,66,Yes,Yes,DSL,Yes,No,No,No,No,No,Two year,Yes,Electronic check,170.33,2625.25
+8888-BBBB,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),69.5,80.67
+7777-CCCC,Female,0,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),34.62,120.67
+6666-DDDD,Male,0,No,No,10,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),78.7,1495.1
+5555-EEEE,Female,1,No,Yes,56,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,125.88,6886.25
+4444-FFFF,Female,0,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),55.15,734.4
