@@ -1,0 +1,7 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+123,3,Ray,male,66,0,0,456789,35,G13,Q
+843,1,Bob,male,15,2,2,D43190,421,C45,Q
+987,1,Mary,female,22,1,1,123456,500,A13,Q
+456,1,Ann,female,41,2,2,C12121,300,B21,S
+214,2,john,male,35,4,2,D4563,125,F14,S
+972,3,Tom,male,51,2,3,W56714,20,G45,C

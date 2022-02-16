@@ -1,0 +1,7 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+96,1,Thomas,male,20,1,1,9781,400,B32,Q
+543,3,Lori,female,15,2,2,H74456,24,G31,Q
+136,2,Justin,male,54,1,1,G536,200,F13,Q
+279,1,Paul,male,61,2,2,A9897,300,C21,S
+851,2,Kate,female,35,4,2,565757,175,D14,S
+572,3,Renee,female,51,2,3,8541,20,G45,C
